@@ -1,8 +1,0 @@
-Preguntas Teoricas:
-1. Que es una funcion en programacion?
-2. Como se conoce la parte de una funcion que permite hacer referencia a ella?
-3. Que entiende por parametro de una funcion?
-4. De un ejemplo visual de indices en un arreglo?
-5. En sus palabras defina que es un arreglo?
-6. Que parte de una funcion define el conjunto de instrucciones?
-7. De un ejemplo de acceso y manipulacion sobre un arreglo
