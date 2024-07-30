@@ -1,0 +1,16 @@
+Preguntas Teoricas:
+1. Que es una funcion en programacion?
+2. Como se conoce la parte de una funcion que permite hacer referencia a ella?
+3. Que entiende por parametro de una funcion?
+4. De un ejemplo visual de indices en un arreglo?
+5. En sus palabras defina que es un arreglo?
+6. Que parte de una funcion define el conjunto de instrucciones?
+7. De un ejemplo de acceso y manipulacion sobre un arreglo
+
+
+Ejercicios Practicos:
+1. Suma de Elementos: Escriba un programa que sume toos los elementos de un arreglo de enteros.
+2. Promedio de elementos: Realice un programa que calcule el promedio de los elementos de un arreglo.
+3. Busqueda de elementos. Escriba un programa que encuentre un elemento especifico lo muestre y tambien su posicion.
+4. Mayor Elemento: Diseñe un programa que encuentre el mayor elemento de un arreglo.
+5. Menor Elemento: Diseñe un programa que encuentre el menor elemento de un arreglo.
